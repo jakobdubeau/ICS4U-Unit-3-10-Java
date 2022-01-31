@@ -14,7 +14,7 @@ public abstract class AbstractVehicle {
     /**
     * Number tires.
     */
-    private int tireNum;
+    protected int tireNum;
 
     /**
     * Colour.
